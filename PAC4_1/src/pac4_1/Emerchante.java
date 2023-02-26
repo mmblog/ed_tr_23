@@ -8,7 +8,7 @@ public class Emerchante {
 	/////////////////////////////////CONSTRUCTOR/////////////////////////////////
 	public Emerchante(String nombre, String apellido1, int edad) {
 		this.nombre="Enrique";
-		this.apellido1="Merchante Moyano"; //Añado segundo apellido
+		this.apellido1="Merchante Moyano"; //Añado segundo apellido.
 		this.edad=28;
 	}
 	
