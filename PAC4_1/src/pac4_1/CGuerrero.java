@@ -9,7 +9,7 @@ public class CGuerrero {
 	public CGuerrero(String nombre, String apellido1, int edad) {
 		this.nombre="Christian Jesus";
 		this.apellido1="Guerrero";
-		this.edad=28;
+		this.edad=18;
 	}
 	
 	
