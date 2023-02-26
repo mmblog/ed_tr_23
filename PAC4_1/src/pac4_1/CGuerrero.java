@@ -8,7 +8,7 @@ public class CGuerrero {
 	/////////////////////////////////CONSTRUCTOR/////////////////////////////////
 	public CGuerrero(String nombre, String apellido1, int edad) {
 		this.nombre="Christian Jesus";
-		this.apellido1="Guerrero González";//Añado segundo apellido 
+		this.apellido1="Guerrero González";//Añado segundo apellido
 		this.edad=18;
 	}
 	
