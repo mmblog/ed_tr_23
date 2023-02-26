@@ -8,7 +8,7 @@ public class JMFuentes {
 	/////////////////////////////////CONSTRUCTOR/////////////////////////////////
 	public JMFuentes(String nombre, String apellido1, int edad) {
 		this.nombre="José Manuel";
-		this.apellido1="Fuentes";
+		this.apellido1="Fuentes Fernández";//Añado segundo apellido//
 		this.edad=19;
 	}
 	
