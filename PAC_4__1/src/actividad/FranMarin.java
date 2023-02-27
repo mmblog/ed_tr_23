@@ -7,6 +7,6 @@ public class FranMarin {
 
           System.out.print ("Marín:");
 
-          System.out.print ("18:");
+          System.out.print ("26:"); // le he modificado la edad
 }
 }
