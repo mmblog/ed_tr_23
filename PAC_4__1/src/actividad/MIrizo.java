@@ -5,7 +5,7 @@ public class MIrizo {
           // TODO Auto-generated method stub
           System.out.print("Manuel:");
 
-          System.out.print ("Irizo:");
+          System.out.print ("Irizo Moreno:"); // Le añado el apellido
 
           System.out.print ("21:");
 }
