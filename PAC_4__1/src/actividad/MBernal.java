@@ -6,7 +6,7 @@ public class MBernal {
           // TODO Auto-generated method stub
           System.out.print("Mario:");
 
-          System.out.print ("Bernal:");
+          System.out.print ("Bernal Pareja:");
 
           System.out.print ("21:");
 }
