@@ -6,5 +6,7 @@ public class Maingrupo {
 		// TODO Auto-generated method stub
 
 	}
-
+Nombre; 
+Apellidos;
+Fecha;
 }
