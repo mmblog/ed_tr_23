@@ -4,7 +4,7 @@ public class fmartinez {
 
     public fmartinez(String nombre, String apellido) {
         this.nombre = "Francisco";
-        this.apellido = "Martinez";
+        this.apellido = "Martinez Garcia"; /*Comentario hecho por David Medina*/
     }
 
     public String getNombre() {
