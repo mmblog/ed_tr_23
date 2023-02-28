@@ -3,7 +3,7 @@ public class DMedina {
     String nombre;
 
     public DMedina(String apellidos, String nombre) {
-        this.apellidos = "Medina";
+        this.apellidos = "Medina Ruiz"; /*COMENTARIO DE FRAN MARTINEZ*/
         this.nombre = "David";
     }
 
