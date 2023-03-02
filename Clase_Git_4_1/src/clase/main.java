@@ -16,11 +16,11 @@ public class main {
     	
     	// Patricia
     	
-    	System.out.print("Nombre: ");
+    	System.out.print("Nombre: Patricia Mª García");
     	
-    	System.out.print("Edad: ");
+    	System.out.print("Edad: 28");
     	
-    	System.out.print("Fecha de nacimiento: ");
+    	System.out.print("Fecha de nacimiento: 21/10/1994 ");
     	
     	System.out.print("Curso: 1ºDam");
    
