@@ -6,7 +6,7 @@ public class main {
 
     	// Rubén
     	
-    	System.out.print("Nombre: Rubén Arcos Colchero");  //Añado segundo apellido
+    	System.out.print("Nombre: Rubén Arcos Colchero");  //Añado segundo apellido (José Ramón)
     	
     	System.out.print("Edad: 23");
     	
@@ -20,17 +20,17 @@ public class main {
     	
     	System.out.print("Edad: 28");
     	
-    	System.out.print("Fecha de nacimiento: 21/10/1994 ");
+    	System.out.print("Fecha de nacimiento: 30/12/1994 "); // Cambio la fecha de nacimiento (Rubén)
     	
     	System.out.print("Curso: 1ºDam");
    
     	// Jose Ramón
     	
     	
-    	System.out.print("Nombre: José Ramón Alcón"); //Añado segundo nombre
+    	System.out.print("Nombre: José Ramón Alcón"); //Añado segundo nombre (Patricia)
     	
     	
-    	System.out.print("Edad: 111"); //Aumento la edad
+    	System.out.print("Edad: 111"); //Aumento la edad (Patricia)
     	
     	System.out.print("Fecha de nacimiento: 10/05/2001");
     	
