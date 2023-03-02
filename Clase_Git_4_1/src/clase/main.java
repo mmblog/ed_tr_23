@@ -26,9 +26,11 @@ public class main {
    
     	// Jose Ramón
     	
-    	System.out.print("Nombre: José Alcón");
     	
-    	System.out.print("Edad: 21");
+    	System.out.print("Nombre: José Ramón Alcón"); //Añado segundo nombre
+    	
+    	
+    	System.out.print("Edad: 111"); //Aumento la edad
     	
     	System.out.print("Fecha de nacimiento: 10/05/2001");
     	
