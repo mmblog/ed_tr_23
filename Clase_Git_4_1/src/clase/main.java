@@ -6,7 +6,7 @@ public class main {
 
     	// Rubén
     	
-    	System.out.print("Nombre: Rubén Arcos");
+    	System.out.print("Nombre: Rubén Arcos Colchero");  //Añado segundo apellido
     	
     	System.out.print("Edad: 23");
     	
