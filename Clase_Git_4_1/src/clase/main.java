@@ -26,11 +26,11 @@ public class main {
    
     	// Jose Ramón
     	
-    	System.out.print("Nombre: ");
+    	System.out.print("Nombre: José Alcón");
     	
-    	System.out.print("Edad: ");
+    	System.out.print("Edad: 21");
     	
-    	System.out.print("Fecha de nacimiento: ");
+    	System.out.print("Fecha de nacimiento: 10/05/2001");
     	
     	System.out.print("Curso: 1ºDam");
     	
